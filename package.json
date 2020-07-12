@@ -1,0 +1,23 @@
+{
+  "name": "state-while-revalidate-service-worker",
+  "version": "1.0.0",
+  "description": "Service worker that implements stale while revalidate approach to netowrk caching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-mattclaffey/state-while-revalidate-service-worker.git"
+  },
+  "keywords": [
+    "service-worker",
+    "pwa"
+  ],
+  "author": "Matthew Claffey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-mattclaffey/state-while-revalidate-service-worker/issues"
+  },
+  "homepage": "https://github.com/code-mattclaffey/state-while-revalidate-service-worker#readme"
+}
